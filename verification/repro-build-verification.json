@@ -5,13 +5,13 @@
   "outputs_absent_before_build": true,
   "ignored_files_copied": false,
   "source_sha256": "1e4af44b0c75cc8649bfb8649dc4ae5850bf5358bd6b9cd0bf779c99f9db1486",
-  "candidate_sha256": "d5447c8249e539708fbbb3220d3eb162d1dcdc895ddd87773d1229353cd7cb45",
+  "candidate_sha256": "3c1f24d2033fea67f7929e3b5fdf11ae406117fd5c23259a0bc8237ad941cb10",
   "candidate_bytes": 8703680,
   "armips_sha256": "74c4507b7e208751c9db4bdd9e7ea4282045430e7b8b48b1e78ef97c909e7fd2",
-  "python_version": "3.14.8",
+  "python_version": "3.11.9",
   "essential_source_sha256": {
-    "src/cleanup.asm": "a169df5c91566d411cad91ffe104931cad22ab38ab201bb4021ea20a94580cf8",
-    "src/layout.json": "42cf8493615274d917023af3ea69445ef3a786071ab77366659b35333ee77920",
+    "src/cleanup.asm": "8396e0bcad0ab3a3f59c1e47eb1fe5d91b9103ee80096ef2f64129bcd967acae",
+    "src/layout.json": "035e8db8831a9a214a50d9383a2a0e4ffe0f334e21ddb19f1328f11bf5d6a1c8",
     "tools/build.py": "f5e06852a7e97033615a5138ddff379b1f99821a5c149e0d9da9d57ea57741cf"
   },
   "checks": {

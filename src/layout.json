@@ -31084,6 +31084,31 @@
       "start": 78392,
       "hex": "03e0",
       "name": "Skip pointless Ruby first-turn loop"
+    },
+    {
+      "start": 1635908,
+      "hex": "00487047387d6c0800497047387d6c08",
+      "name": "Battle textbox tile address veneers (r0/r1 = 0x086C7D38)"
+    },
+    {
+      "start": 60886,
+      "hex": "80f135fc",
+      "name": "Battle textbox tiles: call veneer instead of movs #0x8C; lsls #20"
+    },
+    {
+      "start": 63144,
+      "hex": "7ff1ccff",
+      "name": "Battle textbox tiles: call veneer instead of movs #0x8C; lsls #20"
+    },
+    {
+      "start": 288512,
+      "hex": "48f1a4ff",
+      "name": "Battle textbox tiles: call veneer instead of movs #0x8C; lsls #20"
+    },
+    {
+      "start": 327178,
+      "hex": "3ff11bfc",
+      "name": "Battle textbox tiles: call veneer instead of movs #0x8C; lsls #20"
     }
   ],
   "clears": [
@@ -31200,8 +31225,8 @@
       "size": 17
     },
     {
-      "start": 1635908,
-      "size": 18
+      "start": 1635924,
+      "size": 2
     },
     {
       "start": 1640714,

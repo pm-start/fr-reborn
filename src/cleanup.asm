@@ -665,8 +665,13 @@
 .fill 0x1, 0
 .org 0x0818D3F0
 .fill 0x11, 0
+// Battle textbox tiles (original 0x08C00000, moved to 0x086C7D38): address veneers for the four movs/lsls sites
 .org 0x0818F644
-.fill 0x12, 0
+.halfword 0x4800, 0x4770
+.word 0x086C7D38
+.halfword 0x4900, 0x4770
+.word 0x086C7D38
+.fill 0x2, 0
 .org 0x0819090A
 .fill 0x2, 0
 .org 0x0819090C
@@ -10333,4 +10338,13 @@ b 0x080CAA54
 // Skip pointless Ruby first-turn loop
 .org 0x08013238
 b 0x08013242
+// Battle textbox tiles: these four sites built 0x08C00000 with movs #0x8C; lsls #20 (no pointer word to patch)
+.org 0x0800EDD6
+bl 0x0818F644
+.org 0x0800F6A8
+bl 0x0818F644
+.org 0x08046700
+bl 0x0818F64C
+.org 0x0804FE0A
+bl 0x0818F644
 .close
