@@ -1,0 +1,705 @@
+[
+  {
+    "name": "gUnusedGfx_OldCharmap",
+    "path": "graphics/unused/old_charmap.4bpp.lz",
+    "hash": "35ba2885d65189879ef6b8fd087ebd573996c938d415e2a61f2cdbf8b116b9bb",
+    "start": 12585980,
+    "size": 2008
+  },
+  {
+    "name": "gUnusedTimemap_OldCharmap",
+    "path": "graphics/unused/old_charmap.bin.lz",
+    "hash": "21cc50d3c15c940eb147744ca73be3bbbfe6c84f75b8fbb8374d71ac73b50698",
+    "start": 12587988,
+    "size": 556
+  },
+  {
+    "name": "gUnusedPal_OldCharmap",
+    "path": "graphics/unused/old_charmap.gbapal.lz",
+    "hash": "4431cbfc0d9cdb62c778efc380104e3cf86406722f5d0af9f0f1d446432c2b58",
+    "start": 12588544,
+    "size": 40
+  },
+  {
+    "name": "gUnused_BattleSpritePalette_023",
+    "path": "graphics/unused/battle_anim_023.gbapal.lz",
+    "hash": "c51b38a85f76fb5972619c2a1761adf66f8ca8a05e5ef92581874e8549d70168",
+    "start": 12597444,
+    "size": 40
+  },
+  {
+    "name": "gUnusedGfx_MusicNotes",
+    "path": "graphics/unused/music_notes.4bpp.lz",
+    "hash": "f0cb314cf3e3f4f3fbf3d049f4aaea0d664398057a3e5d098e8e3dd65739dcc4",
+    "start": 12597484,
+    "size": 252
+  },
+  {
+    "name": "gUnusedHpBar_Gfx",
+    "path": "graphics/interface/hpbar_unused.4bpp.lz",
+    "hash": "acc7eef3a7e75604bf4dc8539e50f6c20b538bed8926626f0dc42471840e0984",
+    "start": 12616216,
+    "size": 148
+  },
+  {
+    "name": "gInterfaceGfx_UnusedWindow",
+    "path": "graphics/battle_interface/unused_window.4bpp.lz",
+    "hash": "c7725e31fc0e3d4c75544d65dfbfa48020012fce1b09e4d97e2ba2d7eb57ed17",
+    "start": 12619508,
+    "size": 1212
+  },
+  {
+    "name": "gInterfacePal_UnusedWindow",
+    "path": "graphics/battle_interface/unused_window.gbapal.lz",
+    "hash": "b19a97c9a311fb497c1f6233637e0f1e2863513ce06bdc23dfd26a225fabd0f4",
+    "start": 12620720,
+    "size": 40
+  },
+  {
+    "name": "gUnusedGfx_Window2",
+    "path": "graphics/battle_interface/unused_window2.4bpp.lz",
+    "hash": "1459ebe879f81f8f105d8cde952ab692ab1b14a61be6e76efa39c51367c68122",
+    "start": 12622352,
+    "size": 668
+  },
+  {
+    "name": "gUnusedGfx_Window2Bar",
+    "path": "graphics/battle_interface/unused_window2bar.4bpp.lz",
+    "hash": "e1cd47c159a90e6e8e255bef0d78b3afbe49b625e730954393eeb8adf42497e8",
+    "start": 12623020,
+    "size": 44
+  },
+  {
+    "name": "gUnusedGfx_LineSketch",
+    "path": "graphics/unused/line_sketch.4bpp.lz",
+    "hash": "89557a0a470bdc58e6f57a745711aed1aadf58e85fa248f947da83efffd23b05",
+    "start": 12624380,
+    "size": 388
+  },
+  {
+    "name": "gUnusedPal_LineSketch",
+    "path": "graphics/unused/line_sketch.gbapal.lz",
+    "hash": "95f496bf7c730586f6e32e46e9e35ba0d21a4fbe77fc3915fae8bc383b5f1325",
+    "start": 12624768,
+    "size": 16
+  },
+  {
+    "name": "gUnusedGfx_Metronome",
+    "path": "graphics/unused/metronome_hand_small.4bpp.lz",
+    "hash": "d7feab0fb77515091e7cda0b12ac306474aed549482624d284931bc4db346f8c",
+    "start": 12629520,
+    "size": 112
+  },
+  {
+    "name": "gBattleAnimUnused_Unknown1",
+    "path": "graphics/battle_anims/unused/unknown_1.bin",
+    "hash": "a1f10a2d9a04f4d69ee16077d40d2b59071f4afc434bddf190296a310915d74e",
+    "start": 12634628,
+    "size": 36
+  },
+  {
+    "name": "gBattleAnimUnused_Unknown2",
+    "path": "graphics/battle_anims/unused/unknown_2.bin",
+    "hash": "172525c81662b6a4a09b4263ff1d965d6ba75d8c0bee5b21eb613f31aed15f8c",
+    "start": 12634664,
+    "size": 36
+  },
+  {
+    "name": "gBattleAnimUnused_Unknown3",
+    "path": "graphics/battle_anims/unused/unknown_3.bin",
+    "hash": "2656474c39a65c0171b6109352b1021535067b4015a879bc8eb714f5da4df1da",
+    "start": 12634700,
+    "size": 36
+  },
+  {
+    "name": "gBattleAnimUnusedGfx_LineSketch2",
+    "path": "graphics/battle_anims/unused/line_sketch_2.8bpp.lz",
+    "hash": "72928c0637dfd16752a1c8e7806bf39caaa95bca43d9279c18585c61e0c3d919",
+    "unresolved_matches": []
+  },
+  {
+    "name": "gBattleAnimUnusedPal_LineSketch2",
+    "path": "graphics/battle_anims/unused/line_sketch_2.gbapal.lz",
+    "hash": "c6949b642e7161065096013839e9b688beedf82daf9ddde867843b2f67c25453",
+    "start": 12634824,
+    "size": 32
+  },
+  {
+    "name": "gBattleAnimUnusedTilemap_LineSketch2",
+    "path": "graphics/battle_anims/unused/line_sketch_2.bin.lz",
+    "hash": "0a61812f802b0dea87c8468ddd209a25a0e11b81275d602287a7c99242836e59",
+    "start": 12634856,
+    "size": 144
+  },
+  {
+    "name": "gBattleAnimUnused_Unknown4",
+    "path": "graphics/battle_anims/unused/unknown_4.bin.lz",
+    "hash": "6d765fd82aa1cdf67dd82550730a7f334d98a58d87930adc0e6cf06016adf69b",
+    "start": 12635404,
+    "size": 32
+  },
+  {
+    "name": "gUnusedTilemap_BlueFrame",
+    "path": "graphics/unused/blue_frame.bin.lz",
+    "hash": "fb06166cd20f6d393494ee9d45ab3a504fec12f49849c3ce0253c786b7b62f60",
+    "start": 12651244,
+    "size": 280
+  },
+  {
+    "name": "gUnusedTilemap_RedYellowGreenFrame",
+    "path": "graphics/unused/redyellowgreen_frame.bin.lz",
+    "hash": "9c07c2d6c6350a154f61d54fb361c3a2a2dc9c0d1a73f2ae32e8753ab4162c38",
+    "start": 12651524,
+    "size": 1024
+  },
+  {
+    "name": "gUnusedGfx_ColorFrames",
+    "path": "graphics/unused/color_frames.4bpp.lz",
+    "hash": "af115f838cd8a0be6260c7e98a179268e6a1f0808ac8d35bda73c30443fcfbf3",
+    "start": 12652548,
+    "size": 1440
+  },
+  {
+    "name": "gUnusedPal_ColorFrames",
+    "path": "graphics/unused/color_frames.gbapal.lz",
+    "hash": "25a06ba19ed88bb63362e6fa68caf49534c77f4f8b142a015c8fc0c31d3371ac",
+    "start": 12653988,
+    "size": 40
+  },
+  {
+    "name": "gUnusedGfx8bpp_WaterSplash",
+    "path": "graphics/unused/water_splash.8bpp.lz",
+    "hash": "191a1e59c99d7ea2f44ef65beb1fc9ddbe2bfad1ae2e18e432772ccf1d64e552",
+    "start": 12654332,
+    "size": 392
+  },
+  {
+    "name": "gUnusedTilemap_WaterSplash",
+    "path": "graphics/unused/water_splash.bin.lz",
+    "hash": "a3a5e6cf63102c2e7f2ed820f2b53c29787decfbfbf36eddaff1637d5619de16",
+    "start": 12654724,
+    "size": 224
+  },
+  {
+    "name": "gUnusedPalette_WaterSplash",
+    "path": "graphics/unused/water_splash.gbapal.lz",
+    "hash": "44acc9dd6e720c022a484d21231ced2acee6b50ee0685712600ace21d5280e4f",
+    "start": 12654948,
+    "size": 96
+  },
+  {
+    "name": "gUnusedGfx_BasicFrame",
+    "path": "graphics/unused/basic_frame.4bpp.lz",
+    "hash": "edad365e67f9a12425a15caf2de55d1eff6dbc3455082125900a828ea91c80f7",
+    "start": 12655044,
+    "size": 140
+  },
+  {
+    "name": "gUnusedPal_BasicFrame",
+    "path": "graphics/unused/basic_frame.gbapal.lz",
+    "hash": "cf9234c7e9740f515ded2fb1a7ad56994e5af5ee35ab7586079d47237da35e1e",
+    "start": 12655184,
+    "size": 40
+  },
+  {
+    "name": "gUnusedTilemap_BasicFrame",
+    "path": "graphics/unused/basic_frame.bin.lz",
+    "hash": "f93066316446ab2d61383c850564f3f832615de422feb9c9fed7591b6e0a7260",
+    "start": 12655224,
+    "size": 268
+  },
+  {
+    "name": "gBattleInterfaceGfx_UnusedWindow3",
+    "path": "graphics/battle_interface/unused_window3.4bpp.lz",
+    "hash": "b58217d4cf376165b1a8a81cb448074c1f2965813740442e7e2b4973ad78c202",
+    "start": 12659396,
+    "size": 316
+  },
+  {
+    "name": "gBattleInterfaceGfx_UnusedWindow4",
+    "path": "graphics/battle_interface/unused_window4.4bpp.lz",
+    "hash": "f472ced007fc5fb2bfb6c5a9cc8fd1ae481de18feaa860ad92cbae6ce90b73b2",
+    "start": 12659712,
+    "size": 688
+  },
+  {
+    "name": "gJpContest_Gfx1",
+    "path": "graphics/contest/japanese/composite_1.4bpp.lz",
+    "hash": "b21b93c4373ebaf21f23174fd180659844e93ff8fc8249cfd2a80fa230d2bdb6",
+    "start": 12669004,
+    "size": 2324
+  },
+  {
+    "name": "gJpContest_Pal",
+    "path": "graphics/contest/japanese/palette.gbapal.lz",
+    "hash": "f433d594e42eb3615c1ab63131b73f19174f3ea562ff516370d8503dccb198fa",
+    "start": 12671328,
+    "size": 260
+  },
+  {
+    "name": "gJpContest_Bg_Tilemap",
+    "path": "graphics/contest/japanese/bg.bin.lz",
+    "hash": "791e0b600db66ee1f7dcce4685b932fd74a03c6c624fec92f21f39056ff3cc4a",
+    "start": 12671588,
+    "size": 388
+  },
+  {
+    "name": "gJpContest_Windows_Tilemap",
+    "path": "graphics/contest/japanese/windows.bin.lz",
+    "hash": "c2a9b0aa0410450193f698623fbe658a3dff620c594d96ef5655c8b621284859",
+    "start": 12671976,
+    "size": 704
+  },
+  {
+    "name": "gJpContest_Numbers_Gfx",
+    "path": "graphics/contest/japanese/numbers.4bpp.lz",
+    "hash": "a7aa73b9715c2e6cac6ed7974a7568bceec060a17fa4c0db429613fc5c07e5e0",
+    "start": 12672680,
+    "size": 240
+  },
+  {
+    "name": "gJpContest_Numbers_Pal",
+    "path": "graphics/contest/japanese/numbers.gbapal.lz",
+    "hash": "d3653f35fab5d26b778cc3008bcbbf6616a2aa59c176f0440b95a373bee18c51",
+    "start": 12672920,
+    "size": 32
+  },
+  {
+    "name": "gJpContest_Gfx2",
+    "path": "graphics/contest/japanese/composite_2.4bpp.lz",
+    "hash": "4aff3a8ee3440c8353b4748f047fa9f555c06e8f6aa6ac59baabed8e28299f04",
+    "start": 12672952,
+    "size": 4112
+  },
+  {
+    "name": "gContest_Interface_Pal",
+    "path": "graphics/contest/interface.gbapal.lz",
+    "hash": "484f8416ee078ac37688e906c3e354322c2898279761f51a9b5df6249caf65d1",
+    "start": 12677064,
+    "size": 280
+  },
+  {
+    "name": "gContest_Audience_Tilemap",
+    "path": "graphics/contest/audience.bin.lz",
+    "hash": "ebed77572d87ebc4f57a9820ed8e4ab7a93adcce1a9f62f3d87e1921202b844a",
+    "start": 12677344,
+    "size": 456
+  },
+  {
+    "name": "gContest_Interface_Tilemap",
+    "path": "graphics/contest/interface.bin.lz",
+    "hash": "10880ec4b921c6315b3195da2763311f60a10f2f45070715a337496a982953b9",
+    "start": 12677800,
+    "size": 672
+  },
+  {
+    "name": "gJpContest_Interface_Tilemap",
+    "path": "graphics/contest/japanese/interface.bin.lz",
+    "hash": "edf7bd448c019711aa7ba7e08e79a56cd922e1f42d974a30401b8d87bbc0f492",
+    "start": 12678472,
+    "size": 268
+  },
+  {
+    "name": "gJpContest_Audience_Tilemap",
+    "path": "graphics/contest/japanese/audience.bin.lz",
+    "hash": "deceec414c8dd2958df961548c2ce146f1889c0c33f830a3865ab4011fd33df9",
+    "start": 12678740,
+    "size": 1124
+  },
+  {
+    "name": "gContest_Curtain_Tilemap",
+    "path": "graphics/contest/curtain.bin.lz",
+    "hash": "0342ca1a2ea1d0805e7995bed0fc4dc9283cd27802cf5b90d1cc4f1b3d01aca8",
+    "start": 12679864,
+    "size": 304
+  },
+  {
+    "name": "gContest_Interface_Gfx",
+    "path": "graphics/contest/interface.4bpp.lz",
+    "hash": "e1085cc6fcfa749824a925c920f37efdbd9c03a5f9af009f99ba588a0c8368f3",
+    "start": 12680168,
+    "size": 2968
+  },
+  {
+    "name": "gContest_Audience_Gfx",
+    "path": "graphics/contest/audience.4bpp.lz",
+    "hash": "d237c42cf673aa0239fb00a364afd6af21cf863e7b71bc68ea5a2e56fa110406",
+    "start": 12683136,
+    "size": 3164
+  },
+  {
+    "name": "gContest_Faces_Gfx",
+    "path": "graphics/contest/faces.4bpp.lz",
+    "hash": "f0af4b596ab4ff1341813d0d6c0d20060b4572ef17a80982e69ab3b421ca113e",
+    "start": 12686300,
+    "size": 284
+  },
+  {
+    "name": "gContest_JudgeSymbols_Gfx",
+    "path": "graphics/contest/judge_symbols.4bpp.lz",
+    "hash": "a1ff53e01c487c7a437244ad7299f8dfa0a5b13dd1da1cd760ca93b3b2a6b789",
+    "start": 12686584,
+    "size": 420
+  },
+  {
+    "name": "gContest_JudgeSymbols_Pal",
+    "path": "graphics/contest/judge_symbols.gbapal.lz",
+    "hash": "2137ffc37fa4d722de3c85d5a67c45c0c928f809d4bea68f0a9e11c13222a12f",
+    "start": 12687004,
+    "size": 40
+  },
+  {
+    "name": "gContest_SliderHeart_Gfx",
+    "path": "graphics/contest/slider_heart.4bpp",
+    "hash": "b2cb98e602cebcf331b8ee834cbd4b2c7417948e4313724bb26cca58985d213d",
+    "start": 12687044,
+    "size": 32
+  },
+  {
+    "name": "gJpContest_Voltage_Gfx",
+    "path": "graphics/contest/japanese/voltage.4bpp.lz",
+    "hash": "a9f487855997c308efb4bd2a69d9ccce20bbcc2745b79c7bf3d0883f51cd126f",
+    "start": 12687076,
+    "size": 240
+  },
+  {
+    "name": "gJpContest_Voltage_Pal",
+    "path": "graphics/contest/japanese/voltage.gbapal.lz",
+    "hash": "53a1dc999311cbc9d2d38a5bf6d96220ec18b0a38f989582c41067d7adfd0f37",
+    "start": 12687316,
+    "size": 40
+  },
+  {
+    "name": "gJpContestResults_Gfx",
+    "path": "graphics/contest/japanese/results.4bpp.lz",
+    "hash": "1782e2d11fbcc8fe33c76ca70df1956e2ab22bea901480d7bf9b9c14eb312abb",
+    "start": 12687356,
+    "size": 2152
+  },
+  {
+    "name": "gContestResults_WinnerBanner_Tilemap",
+    "path": "graphics/contest/results_winner_banner.bin.lz",
+    "hash": "e6d5695b873ed52b778881c0f06f0cb235dbfa9229feb26ba0fab435b3a2f4bd",
+    "start": 12689508,
+    "size": 276
+  },
+  {
+    "name": "gContestResults_Interface_Tilemap",
+    "path": "graphics/contest/results_interface.bin.lz",
+    "hash": "e73a81d2315282e745799ac34c0a81a4a12915c059192d4131f9b27c6a476bf9",
+    "start": 12689784,
+    "size": 300
+  },
+  {
+    "name": "gContestResults_Bg_Tilemap",
+    "path": "graphics/contest/results_bg.bin.lz",
+    "hash": "6c656d30802e04a7d73872433d06c7c257095e83ab91b236646fd8e47d2764c9",
+    "start": 12690084,
+    "size": 392
+  },
+  {
+    "name": "gContestResults_Pal",
+    "path": "graphics/contest/results.gbapal.lz",
+    "hash": "f56bb5c63f346042feb565c7df22ff5b0a3bcf5a5cb9b9e7a3fd88a4340396e4",
+    "start": 12690476,
+    "size": 236
+  },
+  {
+    "name": "gUnusedGfx_OldBeatUp",
+    "path": "graphics/unused/old_beatup.4bpp.lz",
+    "hash": "89a291fbf6278dc1617db572e68cf8d8d307e925a0898c8df8adbf2d0bff23ec",
+    "start": 12693548,
+    "size": 156
+  },
+  {
+    "name": "gUnusedPal_OldBeatUp",
+    "path": "graphics/unused/old_beatup.gbapal.lz",
+    "hash": "0a4af6c25a990455463d363df85b0b454b35b53694a140329f0947c8b0ef7e79",
+    "start": 12693704,
+    "size": 28
+  },
+  {
+    "name": "gBattleAnimUnusedGfx_Lights",
+    "path": "graphics/battle_anims/unused/lights.4bpp.lz",
+    "hash": "59bb8e6df78bce07aa357f1a5b1f2776306a98f83083e04ef86b6f831ca29056",
+    "start": 12697204,
+    "size": 40
+  },
+  {
+    "name": "gBattleAnimUnusedPal_Lights",
+    "path": "graphics/battle_anims/unused/lights.gbapal.lz",
+    "hash": "51e16f840b4d91a4f747c09a496075d6fcbeaca1861778058a48ee29573a7eca",
+    "start": 12697244,
+    "size": 24
+  },
+  {
+    "name": "gBattleAnimUnusedTilemap_Lights",
+    "path": "graphics/battle_anims/unused/lights.bin.lz",
+    "hash": "a3b463b4f4592c21dc7c3a48a6849caa3abefec416263337d5359251699cbfe6",
+    "start": 12697268,
+    "size": 260
+  },
+  {
+    "name": "gContestJudgeGfx",
+    "path": "graphics/contest/judge.4bpp.lz",
+    "hash": "a8265fe38efe34ef98815157ca21987f333fbe6a2e1926800b889ca6b3d53ec9",
+    "start": 12698972,
+    "size": 724
+  },
+  {
+    "name": "gContestJudgePal",
+    "path": "graphics/contest/judge.gbapal.lz",
+    "hash": "ae73f558cb3c663e9205874781512b00a919006ab0e319941f388635b6fcd8ad",
+    "start": 12699696,
+    "size": 40
+  },
+  {
+    "name": "gUnusedGfx_Goosuto",
+    "path": "graphics/unused/goosuto.4bpp.lz",
+    "hash": "8b77828c5e120e588a5b1acee3c76cc657ad351c4168a641b181d9538ccdc632",
+    "start": 12702972,
+    "size": 272
+  },
+  {
+    "name": "gUnusedPal_Goosuto",
+    "path": "graphics/unused/goosuto.gbapal.lz",
+    "hash": "4f3e98db1058ac37912db35d3ec5a014fce6bebce74fbbc5f00646aa0b5eb362",
+    "start": 12703244,
+    "size": 24
+  },
+  {
+    "name": "gUnusedTilemap_Goosuto",
+    "path": "graphics/unused/goosuto.bin.lz",
+    "hash": "502e4e76f5cbdd3f21515fae4a5a83ddd910263cb6df8f8d71b8e3d6a2435ae7",
+    "start": 12703268,
+    "size": 336
+  },
+  {
+    "name": "gUnusedGfx_Shadow",
+    "path": "graphics/unused/shadow.4bpp.lz",
+    "hash": "e85d9ea610f0df52d0a9ef91292a4f45895cb414bedbce626e84ff198fed548a",
+    "start": 12713268,
+    "size": 96
+  },
+  {
+    "name": "gUnusedPal_Shadow",
+    "path": "graphics/unused/shadow.gbapal.lz",
+    "hash": "ee9de39355ff68ce812c650a865a9b244ac99047df04c9830283fb8e90c7330c",
+    "start": 12713364,
+    "size": 20
+  },
+  {
+    "name": "gUnusedLevelupAnimationGfx",
+    "path": "graphics/battle_anims/masks/unused_level_up.4bpp.lz",
+    "hash": "c24424593bbe963d4d0d3cbfa37d2094a519cd717bee5cab9081147ef6ed49c1",
+    "unresolved_matches": []
+  },
+  {
+    "name": "gUnusedLevelupAnimationTilemap",
+    "path": "graphics/battle_anims/masks/unused_level_up.bin.lz",
+    "hash": "d8a26581ba03e5351ee0612be5baacaf67b2d64fbe76e026492e68ec88e69a28",
+    "start": 12774512,
+    "size": 264
+  },
+  {
+    "name": "gContestNextTurnGfx",
+    "path": "graphics/contest/next_turn.4bpp.lz",
+    "hash": "a9d5ca7be54f579c9b5787113fdb6d582973d1be5c07016068a50c78b5e1e9b8",
+    "start": 14133296,
+    "size": 92
+  },
+  {
+    "name": "gContestNextTurnNumbersGfx",
+    "path": "graphics/contest/next_turn_numbers.4bpp",
+    "hash": "3b2f64e298d073725d219548cfcc9b9c111cf4165278eb04582fda00c00ba952",
+    "start": 14133388,
+    "size": 128
+  },
+  {
+    "name": "gContestNextTurnRandomGfx",
+    "path": "graphics/contest/next_turn_random.4bpp",
+    "hash": "c74e4f4df763596c62038e9391d4731790dce289fad372e8e077c531596069ba",
+    "start": 14133516,
+    "size": 32
+  },
+  {
+    "name": "gContestApplauseGfx",
+    "path": "graphics/contest/applause.4bpp.lz",
+    "hash": "7ed993d9747fbd5236b283ba2524e4bbc812676500324d27fa76d31e4c077528",
+    "start": 14133692,
+    "size": 300
+  },
+  {
+    "name": "gContestApplauseMeterGfx",
+    "path": "graphics/contest/applause_meter.4bpp",
+    "hash": "a039ae15c0d419b434bc430bc9c54c9804538e0d4b5ce646805e2fdb5b51e28b",
+    "start": 14133992,
+    "size": 128
+  },
+  {
+    "name": "gContestNextTurnPal",
+    "path": "graphics/contest/next_turn.gbapal",
+    "hash": "1d71c45a35b1178ee1db1d6b31e33ff7b1e4a0a6c36d7505ff7b38cb83ed1f87",
+    "start": 14134120,
+    "size": 32
+  },
+  {
+    "name": "gUnusedGrayPalette",
+    "path": "graphics/unused/gray_palette.gbapal.lz",
+    "hash": "5c35dfc8342c2f2e21b30fef22c431bdcb81e4e3bdd03201580e9c7fa8ad372f",
+    "start": 14184504,
+    "size": 24
+  },
+  {
+    "name": "gUnusedRedPalette",
+    "path": "graphics/unused/red_palette.gbapal",
+    "hash": "54210fbe2a1603881483837eeb982b2540798281e56a0a12ffbad09221c06395",
+    "unresolved_matches": []
+  },
+  {
+    "name": "gTradeUnused_Tilemap",
+    "path": "graphics/trade/unused.bin",
+    "hash": "7cd2d50b467c0bf1cc1d9dfb6387706d1956778eeffef2045faa640fa8e487da",
+    "unresolved_matches": []
+  },
+  {
+    "name": "gUnusedBattleTerrain_Plain_Palette",
+    "path": "graphics/battle_terrain/unused/plain.gbapal.lz",
+    "hash": "ec154cf163d041e157583c1a4cbcb495671fd4eac8904a26c36bed65a90c175e",
+    "start": 14120792,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Tiles_Sheet",
+    "path": "graphics/battle_terrain/unused/building/tiles.4bpp.lz",
+    "hash": "ad8a686b64b7a33fa82bd5247f487c36b825e31e8b8b9e3fd327985a04059b99",
+    "start": 14120852,
+    "size": 1452
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Battle_Frontier_Palette",
+    "path": "graphics/battle_terrain/unused/stadium/battle_frontier.gbapal.lz",
+    "hash": "926e6a4027fc5a968db0e5cc2d3cc41dfb087eb24d1779346f91ab32666ab00d",
+    "start": 14122304,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Map_Tilemap",
+    "path": "graphics/battle_terrain/unused/building/map.bin.lz",
+    "hash": "c69a7d15ae064148fa682dbf512eb8c7dd053139c09f439edfe5054b722d7f89",
+    "start": 14122364,
+    "size": 688
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Tiles_Sheet",
+    "path": "graphics/battle_terrain/unused/stadium/tiles.4bpp.lz",
+    "hash": "5cc8e1d94848d7a43c9ae8813cdeca4a137eb37ab02bfb1935320930280cd943",
+    "start": 14123052,
+    "size": 1544
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Map_Tilemap",
+    "path": "graphics/battle_terrain/unused/stadium/map.bin.lz",
+    "hash": "c69a7d15ae064148fa682dbf512eb8c7dd053139c09f439edfe5054b722d7f89",
+    "start": 14124596,
+    "size": 688
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Palette",
+    "path": "graphics/battle_terrain/unused/building/palette.gbapal.lz",
+    "hash": "37bc11684d350dab0a0895ed47a568cfe65a151f946fedcf8214901bf480468d",
+    "start": 14125284,
+    "size": 64
+  },
+  {
+    "name": "gUnusedBattleTerrain_Kyogre_Palette",
+    "path": "graphics/battle_terrain/unused/kyogre.gbapal.lz",
+    "hash": "9241db5567ac25136f1cc1ed57f3559111c7bf34dadd2807511f5d2208407404",
+    "start": 14125348,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Groudon_Palette",
+    "path": "graphics/battle_terrain/unused/groudon.gbapal.lz",
+    "hash": "509fcb0669eed423f5be6727bd7c276efbdb67aaad12e69458dad32bf7c0b43b",
+    "start": 14125408,
+    "size": 88
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Palette2",
+    "path": "graphics/battle_terrain/unused/building/palette2.gbapal.lz",
+    "hash": "bba4a9fe03f4c1604937508cf189fc73af5f1f112c07955ca6346b81df3e17c6",
+    "start": 14125496,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Palette3",
+    "path": "graphics/battle_terrain/unused/building/palette3.gbapal.lz",
+    "hash": "b1632f169e3d02e53eb9233582d259a425e448f8b61c5cba690ffa318b666099",
+    "start": 14125556,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette1",
+    "path": "graphics/battle_terrain/unused/stadium/palette1.gbapal.lz",
+    "hash": "8f4cad382b9c2bd8862d01dcac01c2ee52257fd2234262475b8d6582bbdd4be2",
+    "start": 14125616,
+    "size": 96
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette2",
+    "path": "graphics/battle_terrain/unused/stadium/palette2.gbapal.lz",
+    "hash": "6df83311ca340c55449cff466aa59dfdfb065a09d9c35b9c2b3d2a3387dfe42c",
+    "start": 14125712,
+    "size": 108
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette3",
+    "path": "graphics/battle_terrain/unused/stadium/palette3.gbapal.lz",
+    "hash": "f8fefecd9338e61a1d5cda06ee18501889e8fa662ff5bf970d796745c41da116",
+    "start": 14125820,
+    "size": 80
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette4",
+    "path": "graphics/battle_terrain/unused/stadium/palette4.gbapal.lz",
+    "hash": "b80ae0998c72bfd62eae244e61d478193eae9f119429696b69904340f5d774be",
+    "start": 14125900,
+    "size": 72
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette5",
+    "path": "graphics/battle_terrain/unused/stadium/palette5.gbapal.lz",
+    "hash": "ae72274f5be489be228b5a064aefa46125c22be65a4671d6f2c651a68c5cf2fc",
+    "start": 14125972,
+    "size": 68
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette6",
+    "path": "graphics/battle_terrain/unused/stadium/palette6.gbapal.lz",
+    "hash": "e39fa9510d6fcc5e53b767fc844b37852e6099ad717e99b2fe9aa3a35c4d6844",
+    "start": 14126040,
+    "size": 80
+  },
+  {
+    "name": "gUnusedBattleTerrain_Stadium_Palette7",
+    "path": "graphics/battle_terrain/unused/stadium/palette7.gbapal.lz",
+    "hash": "ecf51a45f5583b1fa28bc2f2dfca75f0df3711bf7d36d9c49c87c956812a4363",
+    "start": 14126120,
+    "size": 60
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Anim_Tiles_Sheet",
+    "path": "graphics/battle_terrain/unused/building/anim_tiles.4bpp.lz",
+    "hash": "3de49503003a6c89aca74ace9c530fadcfe95d461fe7dacfdf963805380038eb",
+    "start": 14126180,
+    "size": 1040
+  },
+  {
+    "name": "gUnusedBattleTerrain_Building_Anim_Map_Tilemap",
+    "path": "graphics/battle_terrain/unused/building/anim_map.bin.lz",
+    "hash": "dc2be1503a8e2f7aefe716bc1dc2092a6f90d9222bf86f5251855dbf92c35d79",
+    "start": 14127220,
+    "size": 292
+  }
+]

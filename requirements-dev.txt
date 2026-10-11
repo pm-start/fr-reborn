@@ -1,0 +1,2 @@
+# Optional instruction-level verification; building uses only the Python standard library.
+unicorn>=2.1,<3

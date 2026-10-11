@@ -1,0 +1,12 @@
+{
+  "frames_per_rom": 9000,
+  "video_equal": true,
+  "differing_video_frames": [],
+  "audio_equal": true,
+  "source_sha256": "1e4af44b0c75cc8649bfb8649dc4ae5850bf5358bd6b9cd0bf779c99f9db1486",
+  "candidate_sha256": "d5447c8249e539708fbbb3220d3eb162d1dcdc895ddd87773d1229353cd7cb45",
+  "emulator_dll_sha256": "c6532fff25fac9b0471c7e0e1e5eaa4ea221503cf9577cf1435b4acc2a0f149a",
+  "bios": "mGBA internal HLE; no external BIOS",
+  "coverage": "New game, player room movement, Start menu, local FR trainer-card front/back, return to field. No physical link partner.",
+  "input_schedule": "work/card-input.json"
+}

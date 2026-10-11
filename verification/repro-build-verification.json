@@ -1,0 +1,22 @@
+{
+  "method": "Export Git index file contents into a new folder; run build with explicit original ROM and ARMIPS.",
+  "tracked_files_exported": 17,
+  "work_absent_before_build": true,
+  "outputs_absent_before_build": true,
+  "ignored_files_copied": false,
+  "source_sha256": "1e4af44b0c75cc8649bfb8649dc4ae5850bf5358bd6b9cd0bf779c99f9db1486",
+  "candidate_sha256": "d5447c8249e539708fbbb3220d3eb162d1dcdc895ddd87773d1229353cd7cb45",
+  "candidate_bytes": 8703680,
+  "armips_sha256": "74c4507b7e208751c9db4bdd9e7ea4282045430e7b8b48b1e78ef97c909e7fd2",
+  "python_version": "3.14.8",
+  "essential_source_sha256": {
+    "src/cleanup.asm": "a169df5c91566d411cad91ffe104931cad22ab38ab201bb4021ea20a94580cf8",
+    "src/layout.json": "42cf8493615274d917023af3ea69445ef3a786071ab77366659b35333ee77920",
+    "tools/build.py": "f5e06852a7e97033615a5138ddff379b1f99821a5c149e0d9da9d57ea57741cf"
+  },
+  "checks": {
+    "build_succeeded": true,
+    "same_verification_report": true,
+    "rom_bytes_identical": true
+  }
+}

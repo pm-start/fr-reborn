@@ -1,0 +1,27 @@
+# Local input ROMs, reference material, audit scratch files and saves
+/work/
+# Generated ROMs, patches, reports and archives
+/outputs/
+*.gba
+*.gb
+*.gbc
+*.nds
+*.rom
+*.bin
+*.bps
+*.ips
+*.ups
+*.sav
+*.srm
+*.ss0
+*.ss1
+*.state
+*.zip
+*.7z
+*.exe
+*.dll
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

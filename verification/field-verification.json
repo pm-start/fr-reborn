@@ -1,0 +1,11 @@
+{
+  "source_sha256": "1e4af44b0c75cc8649bfb8649dc4ae5850bf5358bd6b9cd0bf779c99f9db1486",
+  "candidate_sha256": "d5447c8249e539708fbbb3220d3eb162d1dcdc895ddd87773d1229353cd7cb45",
+  "ruby_loop_cases": 256,
+  "fr_field_move_cases": 819,
+  "checks": {
+    "loop_registers_flags_ram_equal": true,
+    "fr_field_registers_flags_ram_calls_equal": true
+  },
+  "limits": "Unchanged native helpers are stubbed; removed underwater map type 5 is excluded."
+}

@@ -1,0 +1,15 @@
+{
+  "source_sha256": "1e4af44b0c75cc8649bfb8649dc4ae5850bf5358bd6b9cd0bf779c99f9db1486",
+  "candidate_sha256": "d5447c8249e539708fbbb3220d3eb162d1dcdc895ddd87773d1229353cd7cb45",
+  "card_type_cases": 512,
+  "hof_cases": 300,
+  "compressed_assets_checked": 103,
+  "checks": {
+    "fr_type_for_all_versions": true,
+    "fr_original_type_preserved": true,
+    "card_callee_registers_and_memory": true,
+    "hof_only_unused_counter_changes": true,
+    "relocated_decompressed_assets_equal": true
+  },
+  "limits": "HOF sprite creation is stubbed at the unchanged native helper; full ending and a second linked emulator have not been run."
+}

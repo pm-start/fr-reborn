@@ -1,0 +1,589 @@
+{
+  "table": 3222588,
+  "removed": [
+    {
+      "name": "LittlerootTown_MaysHouse_2F_Layout unused RS layout header",
+      "start": 2725256,
+      "size": 28
+    },
+    {
+      "name": "LittlerootTown_MaysHouse_2F_Layout unused RS map blocks",
+      "start": 2725112,
+      "size": 144
+    },
+    {
+      "name": "LittlerootTown_MaysHouse_2F_Layout unused RS map border",
+      "start": 2725104,
+      "size": 8
+    },
+    {
+      "name": "LavaridgeTown_HerbShop_Layout unused RS layout header",
+      "start": 2728436,
+      "size": 28
+    },
+    {
+      "name": "LavaridgeTown_HerbShop_Layout unused RS map blocks",
+      "start": 2728260,
+      "size": 176
+    },
+    {
+      "name": "LavaridgeTown_HerbShop_Layout unused RS map border",
+      "start": 2728252,
+      "size": 8
+    },
+    {
+      "name": "RS_PokemonCenter_1F_Layout unused RS layout header",
+      "start": 2729280,
+      "size": 28
+    },
+    {
+      "name": "RS_PokemonCenter_1F_Layout unused RS map blocks",
+      "start": 2729028,
+      "size": 252
+    },
+    {
+      "name": "RS_PokemonCenter_1F_Layout unused RS map border",
+      "start": 2729020,
+      "size": 8
+    },
+    {
+      "name": "PacifidlogTown_House1_Layout unused RS layout header",
+      "start": 2729732,
+      "size": 28
+    },
+    {
+      "name": "PacifidlogTown_House1_Layout unused RS map blocks",
+      "start": 2729552,
+      "size": 180
+    },
+    {
+      "name": "PacifidlogTown_House1_Layout unused RS map border",
+      "start": 2729544,
+      "size": 8
+    },
+    {
+      "name": "PacifidlogTown_House2_Layout unused RS layout header",
+      "start": 2729948,
+      "size": 28
+    },
+    {
+      "name": "PacifidlogTown_House2_Layout unused RS map blocks",
+      "start": 2729768,
+      "size": 180
+    },
+    {
+      "name": "PacifidlogTown_House2_Layout unused RS map border",
+      "start": 2729760,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_CuttersHouse_Layout unused RS layout header",
+      "start": 2733728,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_CuttersHouse_Layout unused RS map blocks",
+      "start": 2733528,
+      "size": 198
+    },
+    {
+      "name": "RustboroCity_CuttersHouse_Layout unused RS map border",
+      "start": 2733520,
+      "size": 8
+    },
+    {
+      "name": "FortreeCity_House1_Layout unused RS layout header",
+      "start": 2733860,
+      "size": 28
+    },
+    {
+      "name": "FortreeCity_House1_Layout unused RS map blocks",
+      "start": 2733764,
+      "size": 96
+    },
+    {
+      "name": "FortreeCity_House1_Layout unused RS map border",
+      "start": 2733756,
+      "size": 8
+    },
+    {
+      "name": "FortreeCity_House2_Layout unused RS layout header",
+      "start": 2735480,
+      "size": 28
+    },
+    {
+      "name": "FortreeCity_House2_Layout unused RS map blocks",
+      "start": 2735384,
+      "size": 96
+    },
+    {
+      "name": "FortreeCity_House2_Layout unused RS map border",
+      "start": 2735376,
+      "size": 8
+    },
+    {
+      "name": "RS_SafariZone_Entrance_Layout unused RS layout header",
+      "start": 2738552,
+      "size": 28
+    },
+    {
+      "name": "RS_SafariZone_Entrance_Layout unused RS map blocks",
+      "start": 2738048,
+      "size": 504
+    },
+    {
+      "name": "RS_SafariZone_Entrance_Layout unused RS map border",
+      "start": 2738040,
+      "size": 8
+    },
+    {
+      "name": "RS_SafariZone_Northeast_Layout unused RS layout header",
+      "start": 2743252,
+      "size": 28
+    },
+    {
+      "name": "RS_SafariZone_Northeast_Layout unused RS map blocks",
+      "start": 2740052,
+      "size": 3200
+    },
+    {
+      "name": "RS_SafariZone_Northeast_Layout unused RS map border",
+      "start": 2740044,
+      "size": 8
+    },
+    {
+      "name": "RS_SafariZone_Southwest_Layout unused RS layout header",
+      "start": 2746488,
+      "size": 28
+    },
+    {
+      "name": "RS_SafariZone_Southwest_Layout unused RS map blocks",
+      "start": 2743288,
+      "size": 3200
+    },
+    {
+      "name": "RS_SafariZone_Southwest_Layout unused RS map border",
+      "start": 2743280,
+      "size": 8
+    },
+    {
+      "name": "RS_SafariZone_Southeast_Layout unused RS layout header",
+      "start": 2749724,
+      "size": 28
+    },
+    {
+      "name": "RS_SafariZone_Southeast_Layout unused RS map blocks",
+      "start": 2746524,
+      "size": 3200
+    },
+    {
+      "name": "RS_SafariZone_Southeast_Layout unused RS map border",
+      "start": 2746516,
+      "size": 8
+    },
+    {
+      "name": "FortreeCity_DecorationShop_Layout unused RS layout header",
+      "start": 2749856,
+      "size": 28
+    },
+    {
+      "name": "FortreeCity_DecorationShop_Layout unused RS map blocks",
+      "start": 2749760,
+      "size": 96
+    },
+    {
+      "name": "FortreeCity_DecorationShop_Layout unused RS map border",
+      "start": 2749752,
+      "size": 8
+    },
+    {
+      "name": "RS_BattleTower_Layout unused RS layout header",
+      "start": 2751632,
+      "size": 28
+    },
+    {
+      "name": "RS_BattleTower_Layout unused RS map blocks",
+      "start": 2749892,
+      "size": 1740
+    },
+    {
+      "name": "RS_BattleTower_Layout unused RS map border",
+      "start": 2749884,
+      "size": 8
+    },
+    {
+      "name": "SSTidal_Corridor_Layout unused RS layout header",
+      "start": 2752136,
+      "size": 28
+    },
+    {
+      "name": "SSTidal_Corridor_Layout unused RS map blocks",
+      "start": 2751668,
+      "size": 468
+    },
+    {
+      "name": "SSTidal_Corridor_Layout unused RS map border",
+      "start": 2751660,
+      "size": 8
+    },
+    {
+      "name": "SSTidal_LowerDeck_Layout unused RS layout header",
+      "start": 2752616,
+      "size": 28
+    },
+    {
+      "name": "SSTidal_LowerDeck_Layout unused RS map blocks",
+      "start": 2752172,
+      "size": 442
+    },
+    {
+      "name": "SSTidal_LowerDeck_Layout unused RS map border",
+      "start": 2752164,
+      "size": 8
+    },
+    {
+      "name": "SSTidal_Rooms_Layout unused RS layout header",
+      "start": 2753948,
+      "size": 28
+    },
+    {
+      "name": "SSTidal_Rooms_Layout unused RS map blocks",
+      "start": 2752652,
+      "size": 1296
+    },
+    {
+      "name": "SSTidal_Rooms_Layout unused RS map border",
+      "start": 2752644,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_Flat2_1F_Layout unused RS layout header",
+      "start": 2754236,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_Flat2_1F_Layout unused RS map blocks",
+      "start": 2753984,
+      "size": 252
+    },
+    {
+      "name": "RustboroCity_Flat2_1F_Layout unused RS map border",
+      "start": 2753976,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_Flat2_2F_Layout unused RS layout header",
+      "start": 2754524,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_Flat2_2F_Layout unused RS map blocks",
+      "start": 2754272,
+      "size": 252
+    },
+    {
+      "name": "RustboroCity_Flat2_2F_Layout unused RS map border",
+      "start": 2754264,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_Flat2_3F_Layout unused RS layout header",
+      "start": 2754812,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_Flat2_3F_Layout unused RS map blocks",
+      "start": 2754560,
+      "size": 252
+    },
+    {
+      "name": "RustboroCity_Flat2_3F_Layout unused RS map border",
+      "start": 2754552,
+      "size": 8
+    },
+    {
+      "name": "EverGrandeCity_HallOfFame_Layout unused RS layout header",
+      "start": 2755360,
+      "size": 28
+    },
+    {
+      "name": "EverGrandeCity_HallOfFame_Layout unused RS map blocks",
+      "start": 2754848,
+      "size": 510
+    },
+    {
+      "name": "EverGrandeCity_HallOfFame_Layout unused RS map border",
+      "start": 2754840,
+      "size": 8
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_1F_Layout unused RS layout header",
+      "start": 2755572,
+      "size": 28
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_1F_Layout unused RS map blocks",
+      "start": 2755396,
+      "size": 176
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_1F_Layout unused RS map border",
+      "start": 2755388,
+      "size": 8
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_2F_Layout unused RS layout header",
+      "start": 2755824,
+      "size": 28
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_2F_Layout unused RS map blocks",
+      "start": 2755608,
+      "size": 216
+    },
+    {
+      "name": "MossdeepCity_EReaderTrainerHouse_2F_Layout unused RS map border",
+      "start": 2755600,
+      "size": 8
+    },
+    {
+      "name": "SootopolisCity_House1_Layout unused RS layout header",
+      "start": 2755972,
+      "size": 28
+    },
+    {
+      "name": "SootopolisCity_House1_Layout unused RS map blocks",
+      "start": 2755860,
+      "size": 112
+    },
+    {
+      "name": "SootopolisCity_House1_Layout unused RS map border",
+      "start": 2755852,
+      "size": 8
+    },
+    {
+      "name": "SootopolisCity_House2_Layout unused RS layout header",
+      "start": 2756120,
+      "size": 28
+    },
+    {
+      "name": "SootopolisCity_House2_Layout unused RS map blocks",
+      "start": 2756008,
+      "size": 112
+    },
+    {
+      "name": "SootopolisCity_House2_Layout unused RS map border",
+      "start": 2756000,
+      "size": 8
+    },
+    {
+      "name": "SootopolisCity_House3_Layout unused RS layout header",
+      "start": 2756268,
+      "size": 28
+    },
+    {
+      "name": "SootopolisCity_House3_Layout unused RS map blocks",
+      "start": 2756156,
+      "size": 112
+    },
+    {
+      "name": "SootopolisCity_House3_Layout unused RS map border",
+      "start": 2756148,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_Flat1_1F_Layout unused RS layout header",
+      "start": 2756528,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_Flat1_1F_Layout unused RS map blocks",
+      "start": 2756304,
+      "size": 224
+    },
+    {
+      "name": "RustboroCity_Flat1_1F_Layout unused RS map border",
+      "start": 2756296,
+      "size": 8
+    },
+    {
+      "name": "RustboroCity_Flat1_2F_Layout unused RS layout header",
+      "start": 2756788,
+      "size": 28
+    },
+    {
+      "name": "RustboroCity_Flat1_2F_Layout unused RS map blocks",
+      "start": 2756564,
+      "size": 224
+    },
+    {
+      "name": "RustboroCity_Flat1_2F_Layout unused RS map border",
+      "start": 2756556,
+      "size": 8
+    },
+    {
+      "name": "RS_SafariZone_RestHouse_Layout unused RS layout header",
+      "start": 2757004,
+      "size": 28
+    },
+    {
+      "name": "RS_SafariZone_RestHouse_Layout unused RS map blocks",
+      "start": 2756824,
+      "size": 180
+    },
+    {
+      "name": "RS_SafariZone_RestHouse_Layout unused RS map border",
+      "start": 2756816,
+      "size": 8
+    }
+  ],
+  "pointer_aliases": [
+    {
+      "source": 3222600,
+      "target": 2725256,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222640,
+      "target": 2728436,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222648,
+      "target": 2729280,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222656,
+      "target": 2729732,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222660,
+      "target": 2729948,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222712,
+      "target": 2733728,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222716,
+      "target": 2733860,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222724,
+      "target": 2735480,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222768,
+      "target": 2738552,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222792,
+      "target": 2743252,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222796,
+      "target": 2746488,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222800,
+      "target": 2749724,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222804,
+      "target": 2749856,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222812,
+      "target": 2751632,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222832,
+      "target": 2752136,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222836,
+      "target": 2752616,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222840,
+      "target": 2753948,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222844,
+      "target": 2754236,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222848,
+      "target": 2754524,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222852,
+      "target": 2754812,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222856,
+      "target": 2755360,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222860,
+      "target": 2755572,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222864,
+      "target": 2755824,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222868,
+      "target": 2755972,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222872,
+      "target": 2756120,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222876,
+      "target": 2756268,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222880,
+      "target": 2756528,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222884,
+      "target": 2756788,
+      "new_target": 2724528
+    },
+    {
+      "source": 3222892,
+      "target": 2757004,
+      "new_target": 2724528
+    }
+  ],
+  "fallback_layout": 2724528,
+  "layouts_checked": 29
+}
