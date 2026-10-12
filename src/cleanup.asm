@@ -5456,6 +5456,10 @@
 .word 0x086D6AF4 // old pointer field 0x21CF00
 .org 0x0821CF08
 .word 0x086D6AF4 // old pointer field 0x21CF08
+.org 0x0821CF10
+.word 0x086D7354 // old pointer field 0x21CF10
+.org 0x0821CF18
+.word 0x086D7354 // old pointer field 0x21CF18
 .org 0x0821CFE8
 .word 0x086C891C // old pointer field 0x21CFE8
 .org 0x0821CFF0

@@ -16704,6 +16704,18 @@
       "new_target": 7170804
     },
     {
+      "source": 2215696,
+      "new_source": 2215696,
+      "target": 12657668,
+      "new_target": 7172948
+    },
+    {
+      "source": 2215704,
+      "new_source": 2215704,
+      "target": 12657668,
+      "new_target": 7172948
+    },
+    {
       "source": 2215912,
       "new_source": 2215912,
       "target": 12588832,
@@ -50460,6 +50472,22 @@
       "evidence": "graphics table or descriptor"
     },
     {
+      "source": 2215696,
+      "target": 12657668,
+      "alignment": 0,
+      "new_source": 2215696,
+      "new_target": 7172948,
+      "evidence": "SpriteSheet data field (sPartySummaryBallSpriteSheets)"
+    },
+    {
+      "source": 2215704,
+      "target": 12657668,
+      "alignment": 0,
+      "new_source": 2215704,
+      "new_target": 7172948,
+      "evidence": "SpriteSheet data field (sPartySummaryBallSpriteSheets)"
+    },
+    {
       "source": 2215912,
       "target": 12588832,
       "alignment": 0,
@@ -69422,18 +69450,6 @@
     {
       "source": 1886908,
       "target": 13291777,
-      "alignment": 0,
-      "reason": "instruction/script/font/pixel values without a typed graphics pointer field"
-    },
-    {
-      "source": 2215696,
-      "target": 12657668,
-      "alignment": 0,
-      "reason": "instruction/script/font/pixel values without a typed graphics pointer field"
-    },
-    {
-      "source": 2215704,
-      "target": 12657668,
       "alignment": 0,
       "reason": "instruction/script/font/pixel values without a typed graphics pointer field"
     },
